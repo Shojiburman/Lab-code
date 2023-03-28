@@ -28,3 +28,5 @@
         setTimeout(pollForjQuery, 25);
     }
 })();
+
+//jshint
